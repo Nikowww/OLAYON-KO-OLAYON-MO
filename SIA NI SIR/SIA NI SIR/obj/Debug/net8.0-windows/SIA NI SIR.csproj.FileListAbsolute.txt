@@ -1,0 +1,21 @@
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA_NI_SIR.Form1.resources
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA_NI_SIR.Form2.resources
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA_NI_SIR.Form3.resources
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA_NI_SIR.Form4.resources
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA_NI_SIR.Form5.resources
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA_NI_SIR.Properties.Resources.resources
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.csproj.GenerateResource.cache
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.AssemblyInfoInputs.cache
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.AssemblyInfo.cs
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.csproj.CoreCompileInputs.cache
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\bin\Debug\net8.0-windows\SIA NI SIR.exe
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\bin\Debug\net8.0-windows\SIA NI SIR.deps.json
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\bin\Debug\net8.0-windows\SIA NI SIR.runtimeconfig.json
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\bin\Debug\net8.0-windows\SIA NI SIR.dll
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\bin\Debug\net8.0-windows\SIA NI SIR.pdb
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.dll
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\refint\SIA NI SIR.dll
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.pdb
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.genruntimeconfig.cache
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\ref\SIA NI SIR.dll
