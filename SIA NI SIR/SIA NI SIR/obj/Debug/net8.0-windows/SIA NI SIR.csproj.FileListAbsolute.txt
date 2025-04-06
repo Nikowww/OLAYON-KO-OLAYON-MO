@@ -19,3 +19,4 @@ C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\refin
 C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.pdb
 C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA NI SIR.genruntimeconfig.cache
 C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\ref\SIA NI SIR.dll
+C:\Users\jxvil\source\repos\SIA NI SIR\SIA NI SIR\obj\Debug\net8.0-windows\SIA_NI_SIR.Form6.resources

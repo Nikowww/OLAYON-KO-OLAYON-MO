@@ -20,5 +20,15 @@ namespace SIA_NI_SIR
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
         }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
