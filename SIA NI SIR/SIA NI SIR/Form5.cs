@@ -39,5 +39,9 @@ namespace SIA_NI_SIR
 
         }
 
+        private void textBox10_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jxvil\\source\\repos\\SIA NI SIR\\SIA NI SIR\\SIA NI SIR.csproj": {}
+    "C:\\Users\\woodeegabe\\source\\repos\\Nikowww\\OLAYON-KO-OLAYON-MO\\SIA NI SIR\\SIA NI SIR\\SIA NI SIR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jxvil\\source\\repos\\SIA NI SIR\\SIA NI SIR\\SIA NI SIR.csproj": {
+    "C:\\Users\\woodeegabe\\source\\repos\\Nikowww\\OLAYON-KO-OLAYON-MO\\SIA NI SIR\\SIA NI SIR\\SIA NI SIR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jxvil\\source\\repos\\SIA NI SIR\\SIA NI SIR\\SIA NI SIR.csproj",
+        "projectUniqueName": "C:\\Users\\woodeegabe\\source\\repos\\Nikowww\\OLAYON-KO-OLAYON-MO\\SIA NI SIR\\SIA NI SIR\\SIA NI SIR.csproj",
         "projectName": "SIA NI SIR",
-        "projectPath": "C:\\Users\\jxvil\\source\\repos\\SIA NI SIR\\SIA NI SIR\\SIA NI SIR.csproj",
-        "packagesPath": "C:\\Users\\jxvil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jxvil\\source\\repos\\SIA NI SIR\\SIA NI SIR\\obj\\",
+        "projectPath": "C:\\Users\\woodeegabe\\source\\repos\\Nikowww\\OLAYON-KO-OLAYON-MO\\SIA NI SIR\\SIA NI SIR\\SIA NI SIR.csproj",
+        "packagesPath": "C:\\Users\\woodeegabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\woodeegabe\\source\\repos\\Nikowww\\OLAYON-KO-OLAYON-MO\\SIA NI SIR\\SIA NI SIR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jxvil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\woodeegabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

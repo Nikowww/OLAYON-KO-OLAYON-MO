@@ -42,9 +42,10 @@
             // button1
             // 
             button1.Font = new Font("Arial", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(217, 238);
+            button1.Location = new Point(248, 317);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(122, 58);
+            button1.Size = new Size(157, 77);
             button1.TabIndex = 0;
             button1.Text = "Student";
             button1.UseVisualStyleBackColor = true;
@@ -55,9 +56,9 @@
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.Yellow;
-            label3.Location = new Point(229, 128);
+            label3.Location = new Point(262, 171);
             label3.Name = "label3";
-            label3.Size = new Size(290, 30);
+            label3.Size = new Size(371, 38);
             label3.TabIndex = 5;
             label3.Text = "QUEZON CITY UNIVERSITY";
             label3.Click += label3_Click;
@@ -67,10 +68,10 @@
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label4.ForeColor = SystemColors.ButtonFace;
-            label4.Location = new Point(253, 157);
+            label4.Location = new Point(289, 209);
             label4.Name = "label4";
             label4.RightToLeft = RightToLeft.Yes;
-            label4.Size = new Size(243, 21);
+            label4.Size = new Size(305, 28);
             label4.TabIndex = 6;
             label4.Text = "Reserve's Officer Training Corp";
             label4.Click += label4_Click;
@@ -79,21 +80,23 @@
             // 
             label1.AutoSize = true;
             label1.ForeColor = SystemColors.ButtonHighlight;
-            label1.Location = new Point(346, 202);
+            label1.Location = new Point(395, 269);
             label1.Name = "label1";
-            label1.Size = new Size(56, 15);
+            label1.Size = new Size(69, 20);
             label1.TabIndex = 3;
             label1.Text = "Login As:";
             // 
             // button2
             // 
             button2.Font = new Font("Arial", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(422, 238);
+            button2.Location = new Point(482, 317);
+            button2.Margin = new Padding(3, 4, 3, 4);
             button2.Name = "button2";
-            button2.Size = new Size(132, 58);
+            button2.Size = new Size(151, 77);
             button2.TabIndex = 7;
             button2.Text = "Teacher";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // pictureBox1
             // 
@@ -101,10 +104,9 @@
             pictureBox1.BackgroundImageLayout = ImageLayout.None;
             pictureBox1.BorderStyle = BorderStyle.FixedSingle;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(217, 24);
-            pictureBox1.Margin = new Padding(3, 2, 3, 2);
+            pictureBox1.Location = new Point(248, 32);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(315, 102);
+            pictureBox1.Size = new Size(360, 135);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 8;
             pictureBox1.TabStop = false;
@@ -113,18 +115,17 @@
             // checkedListBox1
             // 
             checkedListBox1.FormattingEnabled = true;
-            checkedListBox1.Location = new Point(206, 186);
-            checkedListBox1.Margin = new Padding(3, 2, 3, 2);
+            checkedListBox1.Location = new Point(235, 248);
             checkedListBox1.Name = "checkedListBox1";
-            checkedListBox1.Size = new Size(360, 4);
+            checkedListBox1.Size = new Size(411, 4);
             checkedListBox1.TabIndex = 9;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(64, 64, 0);
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(checkedListBox1);
             Controls.Add(pictureBox1);
             Controls.Add(button2);
@@ -132,6 +133,7 @@
             Controls.Add(label3);
             Controls.Add(label1);
             Controls.Add(button1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "T";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

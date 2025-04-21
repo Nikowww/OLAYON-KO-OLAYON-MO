@@ -41,5 +41,15 @@ namespace SIA_NI_SIR
         {
 
         }
+
+        private void label25_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
